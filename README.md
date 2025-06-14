@@ -41,11 +41,10 @@ src/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seuusuario/investbot-cadastro.git
+git clone https://github.com/linesiscl/Challenge-SOA.git
 cd investbot-cadastro
 
 # 2. Compile e execute
-./mvnw spring-boot:run
 ```
 
 A aplicação estará disponível em:\
